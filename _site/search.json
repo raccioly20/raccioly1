@@ -7,11 +7,11 @@
     "text": "Este é o primeiro post do meu Quarto blog!\n\nÓtima foto da cerveja Turia apreciada em Barcelona!"
   },
   {
-    "objectID": "posts/mineração_de_dados/index.html",
-    "href": "posts/mineração_de_dados/index.html",
-    "title": "Mineração de Dados",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blog do R.A.",
     "section": "",
-    "text": "Mineração de Dados\n\n\nEste é o site da disciplina de Mineração de Dados, disciplina eletiva da Graduação em Estatística do IME/UERJ."
+    "text": "Mineração de Dados\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 6, 2024\n\n\nRicardo Accioly\n\n\n\n\n\n\n\n\n\n\n\n\nBemvindo ao meu Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 6, 2024\n\n\nRicardo Accioy\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -21,17 +21,10 @@
     "text": "Sou graduado em Engenharia Civil pela Universidade Federal do Rio de Janeiro (1983), com mestrado em Engenharia de Produção pela Universidade Federal do Rio de Janeiro (1995) e doutorado em Engenharia de Produção pela Universidade Federal do Rio de Janeiro (2005). Trabalhei 35 anos na Petrobras e sou especializado em Engenharia de Petróleo. Atualmente sou Professor Adjunto da Universidade do Estado do Rio de Janeiro.\nTenho experiência na área de Probabilidade e Estatística, com ênfase em Probabilidade e Estatística Aplicadas, atuando principalmente nos seguintes temas: análise de dados de falha de equipamentos, simulação estocástica, modelagem de dependência e modelagem estatística na área de petróleo."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Blog do R.A.",
+    "objectID": "posts/mineração_de_dados/index.html",
+    "href": "posts/mineração_de_dados/index.html",
+    "title": "Mineração de Dados",
     "section": "",
-    "text": "Mineração de Dados\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 6, 2024\n\n\nRicardo Accioly\n\n\n\n\n\n\n\n\n\n\n\n\nTVAPLR\n\n\n\n\n\n\nnews\n\n\ntutorial\n\n\n\n\n\n\n\n\n\nApr 6, 2024\n\n\nRicardo Accioly\n\n\n\n\n\n\n\n\n\n\n\n\nBemvindo ao meu Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 6, 2024\n\n\nRicardo Accioy\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/tvaplr/index.html",
-    "href": "posts/tvaplr/index.html",
-    "title": "TVAPLR",
-    "section": "",
-    "text": "TVAPLR\n\n\nEste é um tutorial da linguagem R. Algo muito simples usando o pacote learnr!"
+    "text": "Mineração de Dados\n\n\nEste é o site da disciplina de Mineração de Dados, disciplina eletiva da Graduação em Estatística do IME/UERJ."
   }
 ]
