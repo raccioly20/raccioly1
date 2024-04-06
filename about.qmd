@@ -1,0 +1,27 @@
+---
+title: "About/Sobre"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/r_accioly
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ricardo-m-s-accioly-722270/
+    - icon: github
+      text: Github
+      href: https://github.com/raccioly20
+---
+
+Sou graduado em Engenharia Civil pela Universidade Federal do Rio de
+Janeiro (1983), com mestrado em Engenharia de Produção pela Universidade
+Federal do Rio de Janeiro (1995) e doutorado em Engenharia de Produção
+pela Universidade Federal do Rio de Janeiro (2005). Trabalhei 35 anos na Petrobras e sou especializado em Engenharia de Petróleo. Atualmente sou Professor Adjunto da Universidade do Estado do Rio de Janeiro.
+
+Tenho experiência na área de Probabilidade e Estatística, com ênfase em
+Probabilidade e Estatística Aplicadas, atuando principalmente nos
+seguintes temas: análise de dados de falha de equipamentos, simulação
+estocástica, modelagem de dependência e modelagem estatística na área de
+petróleo.

@@ -1,0 +1,20 @@
+{
+  "index.qmd": {
+    "index.html": "183823d0"
+  },
+  "about.qmd": {
+    "about.html": "2f0fcf3a"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "6212d255"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "1ce49ec3"
+  },
+  "posts/mineração_de_dados/index.qmd": {
+    "index.html": "f7e1ad96"
+  },
+  "posts/tvaplr/index.qmd": {
+    "index.html": "6846bb61"
+  }
+}

@@ -1,0 +1,12 @@
+---
+title: "Bemvindo ao meu Blog"
+author: "Ricardo Accioy"
+date: "2024-04-06"
+categories: [news]
+---
+
+Este é o promeiro post do meu Quarto blog!
+
+![](thumbnail.jpg)
+
+Ótima foto da cerveja Turia apreciada em Barcelona!

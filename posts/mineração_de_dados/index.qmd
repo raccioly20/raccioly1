@@ -1,0 +1,11 @@
+---
+title: "Mineração de Dados"
+author: "Ricardo Accioly"
+date: "2024-04-06"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+[![Mineração de Dados](md.png)](https://ime05-12547-mda.netlify.app/_site/)
+
+Este é o site da disciplina de Mineração de Dados, disciplina eletiva da Graduação em Estatística do IME/UERJ.

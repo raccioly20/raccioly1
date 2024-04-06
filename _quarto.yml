@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "rmsa"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/raccioly20
+      - icon: twitter
+        href: https://twitter.com/r_accioly
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+

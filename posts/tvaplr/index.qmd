@@ -1,0 +1,11 @@
+---
+title: "TVAPLR"
+author: "Ricardo Accioly"
+date: "2024-04-06"
+categories: [news, tutorial]
+image: "image1.jpg"
+---
+
+[![TVAPLR](tvaplr.png)](https://raccioly20.github.io/tvaplr.github.io/)
+
+Este é um tutorial da linguagem R. Algo muito simples usando o pacote learnr!
