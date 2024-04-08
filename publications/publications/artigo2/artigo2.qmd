@@ -1,0 +1,13 @@
+---
+title: "Sobrevida de mulheres com câncer no colo do útero"
+author:
+  - Thaís Regina A. Santos
+  - Ricardo M S Accioly
+date: 2023/10/22
+categories: 
+  - Câncer do colo do útero
+  - Modelo de Cox 
+  - Análise de Sobrevivência
+---
+
+[![](images/artigo1.png)](https://www.e-publicacoes.uerj.br/cadest/article/view/77204)

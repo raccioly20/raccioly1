@@ -1,0 +1,18 @@
+---
+title: "Horizon-optimized weights for forecast combination with cross-learning"
+author:
+  - Rafael de O. Valle dos Santos
+  - Celso F. Araujo F
+  - Ricardo M. S. Accioly
+  - Fernando Luiz Cyrino Oliveira
+date: 2021/09/19
+categories: 
+  - forecast combinations
+  - convex combinations
+  - cross-learning
+  - time series clustering
+  - cross-validation
+  - M competitions.
+---
+
+[![HOC2 framework conceptual diagram](images/artigo1.png)](https://www.scielo.br/j/pope/a/Z9SNqBfsN4k8m5xxDLYpPGL/)

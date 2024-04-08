@@ -16,5 +16,47 @@
   },
   "posts/tvaplr/index.qmd": {
     "index.html": "6846bb61"
+  },
+  "artigos/artigo1.qmd": {
+    "artigo1.html": "cb5638c9"
+  },
+  "publications/artigo1.qmd": {
+    "artigo1.html": "74da4726"
+  },
+  "publications/artigo1/artigo1.qmd": {
+    "artigo1.html": "65f458d3"
+  },
+  "publications/index.qmd": {
+    "index.html": "16904d1e"
+  },
+  "publications/publications/artigo1/artigo1.qmd": {
+    "artigo1.html": "4c5fcbb5"
+  },
+  "publications/publications/artigo2/artigo2.qmd": {
+    "artigo2.html": "375ee6b5"
+  },
+  "publications/publications/artigo3/artigo3.qmd": {
+    "artigo3.html": "c2b80b86"
+  },
+  "publications/publications/artigo4/artigo4.qmd": {
+    "artigo4.html": "d6bc939a"
+  },
+  "publications/publications/artigo5/artigo5.qmd": {
+    "artigo5.html": "372cb9f8"
+  },
+  "publications/publications/artigo6/artigo6.qmd": {
+    "artigo6.html": "b4e149e6"
+  },
+  "publications/publications/artigo7/artigo7.qmd": {
+    "artigo7.html": "d7c39f7f"
+  },
+  "publications/publications/artigo8/artigo8.qmd": {
+    "artigo8.html": "ad0b7857"
+  },
+  "publications/publications/artigo9/artigo9.qmd": {
+    "artigo9.html": "06f46537"
+  },
+  "publications/publications/artigo10/artigo10.qmd": {
+    "artigo10.html": "a8faa861"
   }
 }

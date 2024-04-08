@@ -1,0 +1,14 @@
+---
+title: "Modeling dependence with copulas: a useful tool for field development decision process"
+author:
+  - Ricardo M S Accioly
+  - Fernando Y Chiyoshi
+date: 2004/10/31
+categories: 
+  - Multivariate distributions
+  - Simulation
+  - Decision making
+  - Risk analysis
+---
+
+[![Q-Q plots](images/artigo1.png)](https://www.sciencedirect.com/science/article/pii/S0920410504000373)

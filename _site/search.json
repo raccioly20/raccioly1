@@ -1,17 +1,52 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Bemvindo ao meu Blog",
+    "objectID": "publications/publications/artigo9/artigo9.html",
+    "href": "publications/publications/artigo9/artigo9.html",
+    "title": "Uma aplicação de random survival forests na avaliação de dados de falhas de bombas centrífugas submersas",
     "section": "",
-    "text": "Este é o primeiro post do meu Quarto blog!\n\nÓtima foto da cerveja Turia apreciada em Barcelona!"
+    "text": "Survival tree"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Blog do R.A.",
+    "objectID": "publications/publications/artigo7/artigo7.html",
+    "href": "publications/publications/artigo7/artigo7.html",
+    "title": "Métricas de engenharia de custos para projetos de desenvolvimento da produção",
     "section": "",
-    "text": "Mineração de Dados\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 6, 2024\n\n\nRicardo Accioly\n\n\n\n\n\n\n\n\n\n\n\n\nBemvindo ao meu Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 6, 2024\n\n\nRicardo Accioy\n\n\n\n\n\n\nNo matching items"
+    "text": "Distribuição percentual de custos"
+  },
+  {
+    "objectID": "publications/publications/artigo5/artigo5.html",
+    "href": "publications/publications/artigo5/artigo5.html",
+    "title": "Horizon-optimized weights for forecast combination with cross-learning",
+    "section": "",
+    "text": "HOC2 framework conceptual diagram"
+  },
+  {
+    "objectID": "publications/publications/artigo3/artigo3.html",
+    "href": "publications/publications/artigo3/artigo3.html",
+    "title": "Analysis of crude oil and gasoline prices through copulas",
+    "section": "",
+    "text": "Resíduos"
+  },
+  {
+    "objectID": "publications/publications/artigo10/artigo10.html",
+    "href": "publications/publications/artigo10/artigo10.html",
+    "title": "Cost estimating relantionships in onshore drillling projects",
+    "section": "",
+    "text": "Box-Plot Drilling Costs"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Artigos Selecionados",
+    "section": "",
+    "text": "O impacto da distribuição de probabilidade nos resultados da simulação de uma campanha de perfuração de poços de petróleo:ampliando as opções usando copulas\n\n\n\n\n\n\nDistribuições bivariadas\n\n\nCopulas\n\n\nPerfuração de poços\n\n\nSimulação\n\n\n\n\n\n\n\n\n\nNov 8, 2023\n\n\nRicardo de M.S. Accioly, Fernanda S Costa, Jose Fabiano S Costa\n\n\n\n\n\n\n\n\n\n\n\n\nSobrevida de mulheres com câncer no colo do útero\n\n\n\n\n\n\nCâncer do colo do útero\n\n\nModelo de Cox\n\n\nAnálise de Sobrevivência\n\n\n\n\n\n\n\n\n\nOct 22, 2023\n\n\nThaís Regina A. Santos, Ricardo M S Accioly\n\n\n\n\n\n\n\n\n\n\n\n\nAvaliando a transição Energética através da análise de clusters das matrizes de energia elétrica de 40 países\n\n\n\n\n\n\nMatriz de Energia Elétrica\n\n\nTransição Energética\n\n\nAnálise de Cluster\n\n\n\n\n\n\n\n\n\nDec 1, 2022\n\n\nRicardo M S Accioly, Fernanda S Costa\n\n\n\n\n\n\n\n\n\n\n\n\nUma aplicação de random survival forests na avaliação de dados de falhas de bombas centrífugas submersas\n\n\n\n\n\n\nRandom Survival Forests\n\n\nEletrical Submersible Pumps\n\n\nOil Fields\n\n\n\n\n\n\n\n\n\nNov 23, 2021\n\n\nRicardo de M.S. Accioly, Rafael de O Valle dos Santos\n\n\n\n\n\n\n\n\n\n\n\n\nHorizon-optimized weights for forecast combination with cross-learning\n\n\n\n\n\n\nforecast combinations\n\n\nconvex combinations\n\n\ncross-learning\n\n\ntime series clustering\n\n\ncross-validation\n\n\nM competitions.\n\n\n\n\n\n\n\n\n\nSep 19, 2021\n\n\nRafael de O. Valle dos Santos, Celso F. Araujo F, Ricardo M. S. Accioly, Fernando Luiz Cyrino Oliveira\n\n\n\n\n\n\n\n\n\n\n\n\nDecision making to book oil reserves for different Brazilian fiscal agreements using dependence structure\n\n\n\n\n\n\nUpstream deepwater projects\n\n\nCopulas methodology\n\n\nFiscal agreements\n\n\nOil reserves\n\n\n\n\n\n\n\n\n\nNov 19, 2019\n\n\nM.A.B.P. da Hora, B. Asrilhant, R.M.S. Accioly, R. Schaeffer, A. Szklob, A. Hawkesd\n\n\n\n\n\n\n\n\n\n\n\n\nMétricas de engenharia de custos para projetos de desenvolvimento da produção\n\n\n\n\n\n\nProduction development\n\n\nCost engineering metrics\n\n\nRegression\n\n\n\n\n\n\n\n\n\nSep 27, 2018\n\n\nRicardo de M.S. Accioly, Rafael de O Valle dos Santos\n\n\n\n\n\n\n\n\n\n\n\n\nCost estimating relantionships in onshore drillling projects\n\n\n\n\n\n\nCost Estimating Relationships\n\n\nOnshore wells\n\n\nUpstream projects\n\n\nRegression\n\n\n\n\n\n\n\n\n\nJun 1, 2016\n\n\nRicardo M S Accioly\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysis of crude oil and gasoline prices through copulas\n\n\n\n\n\n\nCrude oil prices\n\n\nGasoline prices\n\n\nCopulas\n\n\n\n\n\n\n\n\n\nOct 22, 2008\n\n\nRicardo M S Accioly, Fernando A L Aiube\n\n\n\n\n\n\n\n\n\n\n\n\nModeling dependence with copulas: a useful tool for field development decision process\n\n\n\n\n\n\nMultivariate distributions\n\n\nSimulation\n\n\nDecision making\n\n\nRisk analysis\n\n\n\n\n\n\n\n\n\nOct 31, 2004\n\n\nRicardo M S Accioly, Fernando Y Chiyoshi\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/mineração_de_dados/index.html",
+    "href": "posts/mineração_de_dados/index.html",
+    "title": "Mineração de Dados",
+    "section": "",
+    "text": "Mineração de Dados\n\n\nEste é o site da disciplina de Mineração de Dados, disciplina eletiva da Graduação em Estatística do IME/UERJ."
   },
   {
     "objectID": "about.html",
@@ -21,10 +56,45 @@
     "text": "Sou graduado em Engenharia Civil pela Universidade Federal do Rio de Janeiro (1983), com mestrado em Engenharia de Produção pela Universidade Federal do Rio de Janeiro (1995) e doutorado em Engenharia de Produção pela Universidade Federal do Rio de Janeiro (2005). Trabalhei 35 anos na Petrobras e sou especializado em Engenharia de Petróleo. Atualmente sou Professor Adjunto da Universidade do Estado do Rio de Janeiro.\nTenho experiência na área de Probabilidade e Estatística, com ênfase em Probabilidade e Estatística Aplicadas, atuando principalmente nos seguintes temas: análise de dados de falha de equipamentos, simulação estocástica, modelagem de dependência e modelagem estatística na área de petróleo."
   },
   {
-    "objectID": "posts/mineração_de_dados/index.html",
-    "href": "posts/mineração_de_dados/index.html",
-    "title": "Mineração de Dados",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blog do R.A.",
     "section": "",
-    "text": "Mineração de Dados\n\n\nEste é o site da disciplina de Mineração de Dados, disciplina eletiva da Graduação em Estatística do IME/UERJ."
+    "text": "Mineração de Dados\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 6, 2024\n\n\nRicardo Accioly\n\n\n\n\n\n\n\n\n\n\n\n\nBemvindo ao meu Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 6, 2024\n\n\nRicardo Accioy\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Bemvindo ao meu Blog",
+    "section": "",
+    "text": "Este é o primeiro post do meu Quarto blog!\n\nÓtima foto da cerveja Turia apreciada em Barcelona!"
+  },
+  {
+    "objectID": "publications/publications/artigo1/artigo1.html",
+    "href": "publications/publications/artigo1/artigo1.html",
+    "title": "Avaliando a transição Energética através da análise de clusters das matrizes de energia elétrica de 40 países",
+    "section": "",
+    "text": "Agrupamentos em 1992"
+  },
+  {
+    "objectID": "publications/publications/artigo4/artigo4.html",
+    "href": "publications/publications/artigo4/artigo4.html",
+    "title": "Modeling dependence with copulas: a useful tool for field development decision process",
+    "section": "",
+    "text": "Q-Q plots"
+  },
+  {
+    "objectID": "publications/publications/artigo6/artigo6.html",
+    "href": "publications/publications/artigo6/artigo6.html",
+    "title": "Decision making to book oil reserves for different Brazilian fiscal agreements using dependence structure",
+    "section": "",
+    "text": "Combined Model"
+  },
+  {
+    "objectID": "publications/publications/artigo8/artigo8.html",
+    "href": "publications/publications/artigo8/artigo8.html",
+    "title": "O impacto da distribuição de probabilidade nos resultados da simulação de uma campanha de perfuração de poços de petróleo:ampliando as opções usando copulas",
+    "section": "",
+    "text": "Tempo vs Profundidade"
   }
 ]

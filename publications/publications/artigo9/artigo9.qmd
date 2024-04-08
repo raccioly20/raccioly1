@@ -1,0 +1,13 @@
+---
+title: "Uma aplicação de random survival forests na avaliação de dados de falhas de bombas centrífugas submersas"
+author:
+  - Ricardo de M.S. Accioly
+  - Rafael de O Valle dos Santos
+date: 2021/11/23
+categories: 
+  - Random Survival Forests
+  - Eletrical Submersible Pumps
+  - Oil Fields
+---
+
+![Survival tree](images/artigo1.png)

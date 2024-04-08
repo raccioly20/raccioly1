@@ -1,0 +1,13 @@
+---
+title: "Métricas de engenharia de custos para projetos de desenvolvimento da produção"
+author:
+  - Ricardo de M.S. Accioly
+  - Rafael de O Valle dos Santos
+date: 2018/09/27
+categories: 
+  - Production development
+  - Cost engineering metrics
+  - Regression
+---
+
+[![Distribuição percentual de custos](images/artigo1.png)](https://www.ibp.org.br/rog2018-trabalhos-tecnicos/)

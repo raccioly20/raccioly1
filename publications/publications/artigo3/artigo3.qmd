@@ -1,0 +1,13 @@
+---
+title: "Analysis of crude oil and gasoline prices through copulas"
+author:
+  - Ricardo M S Accioly
+  - Fernando A L Aiube
+date: 2008/10/22
+categories: 
+  - Crude oil prices
+  - Gasoline prices
+  - Copulas
+---
+
+[![Resíduos](images/artigo1.png)](https://www.e-publicacoes.uerj.br/cadest/article/view/15738)

@@ -2,10 +2,13 @@ project:
   type: website
 
 website:
-  title: "rmsa"
+  title: "Ricardo Accioly"
+  page-navigation: true
   navbar:
     right:
       - about.qmd
+      - href: publications/index.qmd
+        text: Artigos
       - icon: github
         href: https://github.com/raccioly20
       - icon: twitter

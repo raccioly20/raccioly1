@@ -1,0 +1,18 @@
+---
+title: "Decision making to book oil reserves for different Brazilian fiscal agreements using dependence structure"
+author:
+  - M.A.B.P. da Hora
+  - B. Asrilhant
+  - R.M.S. Accioly
+  - R. Schaeffer
+  - A. Szklob
+  - A. Hawkesd
+date: 2019/11/19
+categories: 
+  - Upstream deepwater projects
+  - Copulas methodology
+  - Fiscal agreements
+  - Oil reserves
+---
+
+[![Combined Model](images/artigo1.png)](https://www.sciencedirect.com/science/article/pii/S2211467X19300707)

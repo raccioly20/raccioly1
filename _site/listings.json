@@ -1,5 +1,20 @@
 [
   {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/publications/artigo8/artigo8.html",
+      "/publications/publications/artigo2/artigo2.html",
+      "/publications/publications/artigo1/artigo1.html",
+      "/publications/publications/artigo9/artigo9.html",
+      "/publications/publications/artigo5/artigo5.html",
+      "/publications/publications/artigo6/artigo6.html",
+      "/publications/publications/artigo7/artigo7.html",
+      "/publications/publications/artigo10/artigo10.html",
+      "/publications/publications/artigo3/artigo3.html",
+      "/publications/publications/artigo4/artigo4.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/posts/mineração_de_dados/index.html",

@@ -1,0 +1,13 @@
+---
+title: "Cost estimating relantionships in onshore drillling projects"
+author:
+  - Ricardo M S Accioly
+date: 2016/06/01
+categories: 
+  - Cost Estimating Relationships
+  - Onshore wells
+  - Upstream projects
+  - Regression
+---
+
+[![Box-Plot Drilling Costs](images/artigo1.png)](https://www.e-publicacoes.uerj.br/cadest/article/view/27711)

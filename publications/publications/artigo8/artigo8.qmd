@@ -1,0 +1,15 @@
+---
+title: "O impacto da distribuição de probabilidade nos resultados da simulação de uma campanha de perfuração de poços de petróleo:ampliando as opções usando copulas"
+author:
+  - Ricardo de M.S. Accioly
+  - Fernanda S Costa
+  - Jose Fabiano S Costa
+date: 2023/11/08
+categories: 
+  - Distribuições bivariadas
+  - Copulas
+  - Perfuração de poços
+  - Simulação
+---
+
+[![Tempo vs Profundidade](images/artigo1.png)](https://www.simpep.feb.unesp.br/anais_simpep.php?e=18)
