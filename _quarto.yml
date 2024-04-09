@@ -7,6 +7,8 @@ website:
   navbar:
     right:
       - about.qmd
+      - href: teaching/index.qmd
+        text: Ensino
       - href: publications/index.qmd
         text: Artigos
       - icon: github

@@ -5,6 +5,9 @@
     ],
     "publications\\index.qmd": [
       "publications"
+    ],
+    "teaching\\index.qmd": [
+      "teaching"
     ]
   }
 }

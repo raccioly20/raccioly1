@@ -17,8 +17,14 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/mineração_de_dados/index.html",
+      "/posts/Um passo de cada vez/index.html",
       "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/teaching/index.html",
+    "items": [
+      "/teaching/teaching/mineração_de_dados/index.html"
     ]
   }
 ]

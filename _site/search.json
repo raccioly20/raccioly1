@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "teaching/teaching/mineração_de_dados/index.html",
+    "href": "teaching/teaching/mineração_de_dados/index.html",
+    "title": "Mineração de Dados",
+    "section": "",
+    "text": "Mineração de Dados\n\n\nAqui estão os exemplos usados na disciplina de Mineração de Dados, que é uma disciplina eletiva da Graduação em Estatística do IME/UERJ.\nOs exemplos são baseados em treinamentos, livros e também na experiência pessoal de uso e aplicação das técnicas."
+  },
+  {
     "objectID": "publications/publications/artigo9/artigo9.html",
     "href": "publications/publications/artigo9/artigo9.html",
     "title": "Uma aplicação de random survival forests na avaliação de dados de falhas de bombas centrífugas submersas",
@@ -42,11 +49,11 @@
     "text": "O impacto da distribuição de probabilidade nos resultados da simulação de uma campanha de perfuração de poços de petróleo:ampliando as opções usando copulas\n\n\n\n\n\n\nDistribuições bivariadas\n\n\nCopulas\n\n\nPerfuração de poços\n\n\nSimulação\n\n\n\n\n\n\n\n\n\nNov 8, 2023\n\n\nRicardo de M.S. Accioly, Fernanda S Costa, Jose Fabiano S Costa\n\n\n\n\n\n\n\n\n\n\n\n\nSobrevida de mulheres com câncer no colo do útero\n\n\n\n\n\n\nCâncer do colo do útero\n\n\nModelo de Cox\n\n\nAnálise de Sobrevivência\n\n\n\n\n\n\n\n\n\nOct 22, 2023\n\n\nThaís Regina A. Santos, Ricardo M S Accioly\n\n\n\n\n\n\n\n\n\n\n\n\nAvaliando a transição Energética através da análise de clusters das matrizes de energia elétrica de 40 países\n\n\n\n\n\n\nMatriz de Energia Elétrica\n\n\nTransição Energética\n\n\nAnálise de Cluster\n\n\n\n\n\n\n\n\n\nDec 1, 2022\n\n\nRicardo M S Accioly, Fernanda S Costa\n\n\n\n\n\n\n\n\n\n\n\n\nUma aplicação de random survival forests na avaliação de dados de falhas de bombas centrífugas submersas\n\n\n\n\n\n\nRandom Survival Forests\n\n\nEletrical Submersible Pumps\n\n\nOil Fields\n\n\n\n\n\n\n\n\n\nNov 23, 2021\n\n\nRicardo de M.S. Accioly, Rafael de O Valle dos Santos\n\n\n\n\n\n\n\n\n\n\n\n\nHorizon-optimized weights for forecast combination with cross-learning\n\n\n\n\n\n\nforecast combinations\n\n\nconvex combinations\n\n\ncross-learning\n\n\ntime series clustering\n\n\ncross-validation\n\n\nM competitions.\n\n\n\n\n\n\n\n\n\nSep 19, 2021\n\n\nRafael de O. Valle dos Santos, Celso F. Araujo F, Ricardo M. S. Accioly, Fernando Luiz Cyrino Oliveira\n\n\n\n\n\n\n\n\n\n\n\n\nDecision making to book oil reserves for different Brazilian fiscal agreements using dependence structure\n\n\n\n\n\n\nUpstream deepwater projects\n\n\nCopulas methodology\n\n\nFiscal agreements\n\n\nOil reserves\n\n\n\n\n\n\n\n\n\nNov 19, 2019\n\n\nM.A.B.P. da Hora, B. Asrilhant, R.M.S. Accioly, R. Schaeffer, A. Szklob, A. Hawkesd\n\n\n\n\n\n\n\n\n\n\n\n\nMétricas de engenharia de custos para projetos de desenvolvimento da produção\n\n\n\n\n\n\nProduction development\n\n\nCost engineering metrics\n\n\nRegression\n\n\n\n\n\n\n\n\n\nSep 27, 2018\n\n\nRicardo de M.S. Accioly, Rafael de O Valle dos Santos\n\n\n\n\n\n\n\n\n\n\n\n\nCost estimating relantionships in onshore drillling projects\n\n\n\n\n\n\nCost Estimating Relationships\n\n\nOnshore wells\n\n\nUpstream projects\n\n\nRegression\n\n\n\n\n\n\n\n\n\nJun 1, 2016\n\n\nRicardo M S Accioly\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysis of crude oil and gasoline prices through copulas\n\n\n\n\n\n\nCrude oil prices\n\n\nGasoline prices\n\n\nCopulas\n\n\n\n\n\n\n\n\n\nOct 22, 2008\n\n\nRicardo M S Accioly, Fernando A L Aiube\n\n\n\n\n\n\n\n\n\n\n\n\nModeling dependence with copulas: a useful tool for field development decision process\n\n\n\n\n\n\nMultivariate distributions\n\n\nSimulation\n\n\nDecision making\n\n\nRisk analysis\n\n\n\n\n\n\n\n\n\nOct 31, 2004\n\n\nRicardo M S Accioly, Fernando Y Chiyoshi\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/mineração_de_dados/index.html",
-    "href": "posts/mineração_de_dados/index.html",
-    "title": "Mineração de Dados",
+    "objectID": "posts/Um passo de cada vez/index.html",
+    "href": "posts/Um passo de cada vez/index.html",
+    "title": "O Luca",
     "section": "",
-    "text": "Mineração de Dados\n\n\nEste é o site da disciplina de Mineração de Dados, disciplina eletiva da Graduação em Estatística do IME/UERJ."
+    "text": "Aqui temos o Luca meu viralata brincalhão incansável!\n\n\n\nLuca"
   },
   {
     "objectID": "about.html",
@@ -58,9 +65,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Blog do R.A.",
+    "title": "Blog",
     "section": "",
-    "text": "Mineração de Dados\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 6, 2024\n\n\nRicardo Accioly\n\n\n\n\n\n\n\n\n\n\n\n\nBemvindo ao meu Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 6, 2024\n\n\nRicardo Accioy\n\n\n\n\n\n\nNo matching items"
+    "text": "O Luca\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 6, 2024\n\n\nRicardo Accioy\n\n\n\n\n\n\n\n\n\n\n\n\nBemvindo ao meu Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 6, 2024\n\n\nRicardo Accioy\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -96,5 +103,12 @@
     "title": "O impacto da distribuição de probabilidade nos resultados da simulação de uma campanha de perfuração de poços de petróleo:ampliando as opções usando copulas",
     "section": "",
     "text": "Tempo vs Profundidade"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Ensino",
+    "section": "",
+    "text": "Mineração de Dados\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 6, 2024\n\n\nRicardo Accioly\n\n\n\n\n\n\nNo matching items"
   }
 ]

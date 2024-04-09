@@ -58,5 +58,14 @@
   },
   "publications/publications/artigo10/artigo10.qmd": {
     "artigo10.html": "a8faa861"
+  },
+  "teaching/index.qmd": {
+    "index.html": "75beb5b6"
+  },
+  "teaching/teaching/mineração_de_dados/index.qmd": {
+    "index.html": "7b00c4a4"
+  },
+  "posts/Um passo de cada vez/index.qmd": {
+    "index.html": "e773cc82"
   }
 }

@@ -1,0 +1,10 @@
+---
+title: "O Luca"
+author: "Ricardo Accioy"
+date: "2024-04-06"
+categories: [news]
+---
+
+Aqui temos o Luca meu viralata brincalhão incansável!
+
+![Luca](thumbnail.jpg)
